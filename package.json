@@ -24,7 +24,7 @@
 		"i18next": "^17.0.4",
 		"i18next-browser-languagedetector": "^3.0.1",
 		"i18next-xhr-backend": "^3.2.2",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.23",
 		"numbro": "^2.1.2",
 		"rc-slider": "^8.7.1",
 		"rc-tooltip": "4.0.0-alpha.0",
